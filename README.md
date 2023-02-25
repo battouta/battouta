@@ -1,4 +1,4 @@
-[![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)](https://rishavchanda.io)
+[![MasterHead](https://thumbs.gfycat.com/BigheartedGrimFlea-size_restricted.gif)](https://rishavchanda.io)
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
