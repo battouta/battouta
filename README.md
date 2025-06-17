@@ -15,6 +15,7 @@ I believe in learning by doing, breaking stuff (ethically), and exploring code l
 My coding journey is full of discovery, experiments, and building awesome little tools.
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=battouta&layout=compact&theme=tokyonight)
 
 ## 💻 Tech Stack
 
