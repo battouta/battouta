@@ -2,6 +2,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=battouta&color=brightgreen)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=battouta&layout=compact)
+
+
+
 <h1 align="center">Hi 👋, I'm fatima kbadi</h1>
 <h3 align="center">A passionate about design and frontend from morocco</h3>
 
