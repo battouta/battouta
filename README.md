@@ -1,5 +1,4 @@
 <!-- WAVE HEADER -->
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Hi%20There!%20I'm%20Battouta%20👩‍💻&fontSize=32&fontAlignY=35&desc=A%20Curious%20Coder%20with%20Cyber%20Spice%20🛡️&descAlignY=60)
 
 <p align="center">
   <img src="https://images.app.goo.gl/zVxCKVZgiy84cPo48" />
