@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Website design**
 
-- 🌱 I’m currently learning **Javascript & C**
+- 🌱 I’m currently learning **full-stuck development**
 
 - 📫 How to reach me **faaatimatou@gmail.com**
 
