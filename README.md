@@ -1,30 +1,18 @@
-# 👩‍💻 Battouta | Aspiring Developer
+<!-- WAVE HEADER BANNER -->
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Hi%20There!%20I'm%20Battouta%20👩‍💻&fontSize=32&fontAlignY=35&desc=A%20Curious%20Coder%20with%20a%20Dash%20of%20Cyber%20Spice%20🛡️&descAlignY=60)
 
-Hi there! I'm **Fatima**, a self-taught developer from Morocco 🇲🇦  
-Currently learning full stack development, and building fun and useful mini-projects while exploring tech, AI, and a little bit of design.
-
----
-
-## 🚀 What I'm Working On
-
-- Learning **HTML/CSS/JavaScript** to build interactive web apps
-- Exploring **Python** for automation and AI experiments
-- Documenting my journey in **open-source projects**
-- Building a small portfolio of mini-projects to improve my skills
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F5EFB&center=true&vCenter=true&width=435&lines=Self-Taught+Developer+👩‍💻;Python+Lover+%7C+Web+Explorer;Cyber+Security+In+Progress+🛡️;Creative+and+Curious+Always+%F0%9F%92%A1" />
+</p>
 
 ---
 
-## 🎁 BONUS
+## 👩‍💻 About Me
 
-
-
-```markdown
-![Welcome](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20Battouta's%20Hub&fontSize=30&fontAlignY=35&desc=Aspiring%20Web%20Developer%20from%20Morocco&descAlignY=60)
----
-
-## 💻 Tech Stack
-
-```html
-Languages:      HTML, CSS, JavaScript, Python
-Tools/Design:   Figma, Canva, Git, VS Code
-Learning:       React, Tailwind CSS, GitHub Actions, Markdown
+```yaml
+Name:        Battouta
+From:        Tangier, Morocco 🇲🇦
+Focus:       Web Development & Cyber Security
+Stack:       Python, JavaScript, C, React, CSS, Git
+Style:       Self-taught, curious, and constantly exploring
+Personality: Calm 🔒 but full of code 💥
